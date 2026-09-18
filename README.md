@@ -2,7 +2,7 @@
 
 > **Made by ZappyQ**
 
-**ZQ Suno Farmer** is a Python-based console automation tool designed to help you passively earn credits on [Suno](https://suno.com?utm_source=gemini) through their "Listen and Rank" system.
+**ZQ Suno Farmer** is a Python-based console automation tool designed to help you passively earn credits on [Suno](https://suno.com) through their "Listen and Rank" system.
 
 Instead of manually listening to clips and voting for hours, this script uses Selenium WebDriver to automate the entire process: playing the tracks, waiting for the exact required duration, casting a random vote, and collecting your credits.
 
@@ -18,22 +18,15 @@ Instead of manually listening to clips and voting for hours, this script uses Se
 
 ## Prerequisites
 
-Before running the script, ensure you have the following installed on your system:
+Before running the program, ensure you have the following installed on your system:
 
-1. **Python 3.7+** (Make sure Python is added to your system PATH)
-
-2. **Google Chrome** installed on your computer.
+**Google Chrome** installed on your computer.
 
 ## Installation
 
-1. **Clone or Download the Repository:** Download the `ZQ Suno Farmer.exe` file to an empty folder on your computer.
+**Clone or Download the Repository:** Download the `ZQ Suno Farmer.exe` file to an empty folder on your computer.
 
-2. **Install Required Python Packages:**
-   Open your terminal or command prompt in that folder and run the following command to install the necessary dependencies:
-
-   ```
-   pip install selenium webdriver-manager
-   ```
+*(Note: If Windows SmartScreen shows a warning, click **More info** -> **Run anyway**).*
 
 ## Usage
 
